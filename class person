@@ -1,0 +1,22 @@
+
+class person {
+    constructor(name, age,email) {
+          this.name = name;
+          this.age  =age;
+          this.email = email;
+    }
+
+
+
+   // to create a person      
+        person = [];
+             
+           letperson  = new person(' Dinesh', '22',' dineshemail.com');
+    
+
+};
+     console.log(...person(name, age, email));
+
+
+
+
